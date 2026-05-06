@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "SchoolBell";
+  src: url("https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa60ZpbiU.woff2") format("woff2");
+}
+
+* {
+  font-family: "SchoolBell" !important;
+}
