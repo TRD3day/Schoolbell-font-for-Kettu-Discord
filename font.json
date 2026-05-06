@@ -1,5 +1,7 @@
 {
-  "spec": [
+  "name": "SchoolBell",
+  "spec": 1,
+  "fonts": [
     {
       "name": "SchoolBell",
       "asset": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa60ZpbiU.woff2",
