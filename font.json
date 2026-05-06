@@ -1,0 +1,11 @@
+{
+  "name": "SchoolBell",
+  "fonts": [
+    {
+      "name": "SchoolBell",
+      "file": "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxUa60ZpbiU.woff2",
+      "weight": "400",
+      "style": "normal"
+    }
+  ]
+}
